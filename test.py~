@@ -1,0 +1,3 @@
+def percent (value,total):
+    print(value/total)
+    return (value/total)*100
